@@ -7,7 +7,7 @@
 ### Hey there glad to meet you, Iam Ishita discord developer and a web-developer from India. 
 - 🔭 Iam learning **React.js and C++**
 - 🥅 Looking for collabrators for **open source projects**
-- 📫 Contact me though my mail at **itsmeishita4@gmail.com**
+- 📫 Contact me at **itsmeishita4@gmail.com**
 - ⚡ Iam currently working on calypso, an open source discord.js discord-bot
 - 🌱 2021 Goals: publish a npm package [working on it]
 
