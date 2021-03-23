@@ -20,4 +20,4 @@
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=ishitajs&show_icons=true&hide_border=true&theme=tokyonight"><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ishitajs&theme=tokyonight&hide=batchfile">
 
 
-#### have a great day/night.
+
