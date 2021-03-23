@@ -1,4 +1,4 @@
-<p align='center'> <a href="https://discord.gg/5PvBYxPgQS">
+<p align='center'> <a href="https://discord.gg/drunk">
   <img align="center" alt="Discord Server" width="16px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />
 </a> </p>
 
