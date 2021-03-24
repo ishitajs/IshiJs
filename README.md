@@ -14,12 +14,13 @@
 
 <br />
 
-### Hey nice to meet you, Iam Ishita discord developer and a web-developer from India. 
-- 🔭 Iam learning **React.js and C++**
+### Hey nice to meet you, I'm Ishita discord developer and a web-developer from India. 
+- 🔭 Iam learning **C and C++**
 - 🥅 Looking for collabrators for **open source projects**
 - 📫 Contact me at **itsmeishita4@gmail.com**
-- ⚡ Iam currently working on calypso, an open source discord.js discord-bot
+- ⚡ Iam currently working on [calypso](https://github.com/ishitajs/CalypsoBot)
 - 🌱 2021 Goals: publish a npm package [working on it]
+- 😂 Github has repositories and people can fork them.
 
  
 **Languages and Tools:** &nbsp;
