@@ -19,7 +19,7 @@
 - 🥅 Looking for collabrators for **open source projects**
 - 📫 Contact me at **itsmeishita4@gmail.com**
 - ⚡ Iam currently working on [calypso](https://github.com/ishitajs/CalypsoBot)
-- 🌱 2021 Goals: publish a npm package [working on it]
+- 🌱 2021 Goals: publish a npm package [working on it].
 - 😂 Github has repositories and people can fork them.
 
  
