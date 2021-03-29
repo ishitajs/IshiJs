@@ -15,11 +15,11 @@
 <br />
 
 ### Hey nice to meet you, I'm Ishita discord developer and a web-developer from India. 
-- 🔭 Iam learning **C and C++**
+- 🔭 Iam learning **Python** and **React.js** 
 - 🥅 Looking for collabrators for **open source projects**
 - 📫 Contact me at **itsmeishita4@gmail.com**
 - ⚡ Iam currently working on [calypso](https://github.com/ishitajs/CalypsoBot) and [Mai](https://github.com/ishitajs/Mai)
-- 🌱 2021 Goals: havent thought about it.
+- 🌱 2021 Goals: Haven't thought about it.
 - 😂 Github has repositories and people can fork them.
 
  
