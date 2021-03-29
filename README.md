@@ -15,7 +15,7 @@
 <br />
 
 ### Hey nice to meet you, I'm Ishita discord developer and a web-developer from India. 
-- 🔭 Iam learning **Python** and **React.js** 
+- 🔭 Iam learning **React.js** 
 - 🥅 Looking for collabrators for **open source projects**
 - 📫 Contact me at **itsmeishita4@gmail.com**
 - ⚡ Iam currently working on [calypso](https://github.com/ishitajs/CalypsoBot) and [Mai](https://github.com/ishitajs/Mai)
