@@ -15,7 +15,7 @@
 <br />
 
 ### Hey nice to meet you, I'm Ishita
-- 🇮🇳 Iam from India
+- 🚩 Iam from India
 - 🔭 Iam learning **React.js** 
 - 🥅 Looking for collabrators for **open source projects**
 - 📫 Contact me at **itsmeishita4@gmail.com**
