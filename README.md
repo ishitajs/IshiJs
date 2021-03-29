@@ -18,7 +18,7 @@
 - 🔭 Iam learning **C and C++**
 - 🥅 Looking for collabrators for **open source projects**
 - 📫 Contact me at **itsmeishita4@gmail.com**
-- ⚡ Iam currently working on [calypso](https://github.com/ishitajs/CalypsoBot)
+- ⚡ Iam currently working on [calypso](https://github.com/ishitajs/CalypsoBot) and [Mai](https://github.com/ishitajs/Mai)
 - 🌱 2021 Goals: publish a npm package [working on it].
 - 😂 Github has repositories and people can fork them.
 
