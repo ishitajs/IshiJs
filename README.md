@@ -39,4 +39,4 @@ Come say hi to me 😸
 <br><br>
 
 ### Most Used Languages
- [![lang](https://github-readme-stats.vercel.app/api/top-langs/?username=ishitajs&layout=compact&theme=nightowl)](https://github.com/ishitajs/) 
+ [![lang](https://github-readme-stats.vercel.app/api/top-langs/?username=ishitajs&layout=compact&theme=nightowl)](https://github.com/ishitajs)
