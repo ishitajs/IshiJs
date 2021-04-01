@@ -43,4 +43,4 @@ Come say hi to me 😸
 [![Mai](https://github-readme-stats.vercel.app/api/pin/?username=ishitajs&repo=Mai&theme=nightowl)](https://github.com/ishitajs/Mai)
 
 ### Most Used Languages
- [![lang](https://github-readme-stats.vercel.app/api/top-langs/?username=ishitajs&layout=compact&theme=nightowl)](https://github.com/ishitajs)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ishitajs)](https://github.com/ishitajs/github-readme-stats)
