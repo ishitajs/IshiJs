@@ -29,17 +29,13 @@
 
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=ishitajs&show_icons=true&theme=dark&line_height=21" alt="legend-js' github stats"/>
-  
-  
+
+### Pinned Repositories
+[![CalysoBot](https://github-readme-stats.vercel.app/api/pin/?username=ishitajs&repo=CalypsoBot&theme=nightowl)](https://github.com/ishitajs/CalypsoBot)
+[![Mai](https://github-readme-stats.vercel.app/api/pin/?username=ishitajs&repo=Mai&theme=nightowl)](https://github.com/ishitajs/Mai)
 
 ## Discord Server
 Come say hi to me 😸
 </br></br>
 <a href="https://discord.gg/sWfMBbabna"><img src="https://invidget.switchblade.xyz/sWfMBbabna"/></a>
 <br><br>
-
-### Pinned Repositories
-[![CalysoBot](https://github-readme-stats.vercel.app/api/pin/?username=ishitajs&repo=CalypsoBot&theme=nightowl)](https://github.com/ishitajs/CalypsoBot)
-[![Mai](https://github-readme-stats.vercel.app/api/pin/?username=ishitajs&repo=Mai&theme=nightowl)](https://github.com/ishitajs/Mai)
-
-
