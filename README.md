@@ -19,7 +19,6 @@
 - 🔭 Iam learning **React.js** 
 - 🥅 Looking for collabrators for **open source projects**
 - 📫 Contact me at **itsmeishita4@gmail.com**
-- ⚡ Iam currently working on [calypso](https://github.com/ishitajs/CalypsoBot) and [Mai](https://github.com/ishitajs/Mai)
 - 🌱 2021 Goals: Haven't thought about it.
 - 😂 Github has repositories and people can fork them.
 
